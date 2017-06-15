@@ -1,0 +1,35 @@
+body{
+  background-image: url(Car66.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
+h1{
+  color: blue;
+}
+p{
+  color: yellow;
+  font-family: monospace;
+  font-size: 30px;
+}
+img{
+  height: 200px;
+  width: 500px;
+}
+ol{
+  color: yellow;
+  font-size: 30px;
+  font-family: monospace;
+}
+a{
+  color: red;
+}
+h2{
+  color: lightblue;
+}
+h3{
+  color: white;
+}
+ul{
+  color: red;
+}
