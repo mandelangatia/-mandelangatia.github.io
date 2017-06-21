@@ -5,5 +5,6 @@ Mandela Kiboi ngatia
 ## Project Description
 The webpage is a developing portfolio for mandela ngatia
 ## link to gh-pages
-
-## copyright &copy 
+https://mandelangatia.github.io/
+## copyright License
+Integrate or build upon it for free in your personal or commercial projects. Don't republish, redistribute or sell "as-is".

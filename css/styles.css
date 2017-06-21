@@ -6,7 +6,7 @@ body{
   padding-top: 50px
 }
 h1{
-  color: blue;
+  color: green;
 }
 p{
   color: yellow;
@@ -23,7 +23,7 @@ ol{
   font-family: monospace;
 }
 a{
-  color: red;
+  color: cyan;
 }
 h2{
   color: lightblue;
