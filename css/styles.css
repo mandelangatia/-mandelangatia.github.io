@@ -3,6 +3,7 @@ body{
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
+  padding-top: 50px
 }
 h1{
   color: blue;
@@ -32,4 +33,23 @@ h3{
 }
 ul{
   color: red;
+}
+img{
+
+}
+.facebook{
+  width: 20px;
+  height: 20px;
+}
+.ig{
+  width: 20px;
+  height: 20px;
+}
+.gp{
+  width: 20px;
+  height: 20px;
+}
+.em{
+  width: 20px;
+  height: 20px;
 }
